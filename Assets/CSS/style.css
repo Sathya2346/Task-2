@@ -1,0 +1,17 @@
+.container{
+	width:80%;
+	margin:auto;
+}
+.parent{
+	display:flex;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+}
+.child1{
+	width:35%;
+}
+.child2{
+	width:38%;
+	border:5px solid orange;
+	padding:10px;
+}
